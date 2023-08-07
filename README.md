@@ -1,4 +1,4 @@
-# Indicator_Semafoe_v3
+# Indicator_Semafore_v3
 Исправленный индикатор "3_Level_ZZ_Semafor_v2"
 
 Выглядит совершенно адекватно даже на мелких тайм-фреймах
